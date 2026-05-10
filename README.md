@@ -74,5 +74,5 @@
 
 ## 代表项目
 
-[![ai-agent](https://github.com/lilac-xky/ai-agent)]
-[![picture](https://github.com/lilac-xky/picture)]
+[ai-agent](https://github.com/lilac-xky/ai-agent)
+[picture](https://github.com/lilac-xky/picture)
