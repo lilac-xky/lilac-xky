@@ -74,5 +74,5 @@
 
 ## 代表项目
 
-[![ai-agent](https://github-readme-stats.vercel.app/api/pin/?username=lilac-xky&repo=ai-agent&hide_border=true)](https://github.com/lilac-xky/ai-agent)
-[![picture](https://github-readme-stats.vercel.app/api/pin/?username=lilac-xky/picture&repo=picture&hide_border=true)](https://github.com/lilac-xky/picture)
+[![ai-agent](https://github.com/lilac-xky/ai-agent)]
+[![picture](https://github.com/lilac-xky/picture)]
